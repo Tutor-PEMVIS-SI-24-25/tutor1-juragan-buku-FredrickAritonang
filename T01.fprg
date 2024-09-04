@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="T01"/>
+        <attribute name="authors" value="USER"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09:10:10 PM"/>
+        <attribute name="created" value="VVNFUjtMQVBUT1AtQjc2M09HUTY7MjAyNC0wOS0wNDswODoxMjozNiBQTTsyNjI0"/>
+        <attribute name="edited" value="VVNFUjtMQVBUT1AtQjc2M09HUTY7MjAyNC0wOS0wNDswOToxMDoxMCBQTTsxOzI3MjM="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="umur" type="String" array="False" size=""/>
+            <input variable="umur"/>
+            <output expression="18" newline="True"/>
+            <declare name="Alamat" type="String" array="False" size=""/>
+            <input variable="Alamat"/>
+            <output expression="&quot;Balige&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
